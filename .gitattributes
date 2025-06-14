@@ -1,0 +1,5 @@
+Client/Assets/Scenes/NetworkPlayer.unity filter=lfs diff=lfs merge=lfs -text
+Server/server/assets/icons/logos.psd filter=lfs diff=lfs merge=lfs -text
+Server/server/assets/icons/oculus.png filter=lfs diff=lfs merge=lfs -text
+Server/server/assets/icons/pico.png filter=lfs diff=lfs merge=lfs -text
+Server/server/assets/icons/windows.png filter=lfs diff=lfs merge=lfs -text

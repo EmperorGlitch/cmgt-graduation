@@ -1,0 +1,5 @@
+GRANT CONNECT, TEMP ON DATABASE videos TO engineer;
+GRANT USAGE, CREATE ON SCHEMA public TO engineer;
+ALTER SCHEMA public OWNER TO engineer;
+
+GRANT ALL ON ALL SEQUENCES IN SCHEMA public TO engineer;
